@@ -15,6 +15,9 @@
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "express": "^7.24.0"
+  },
   "bugs": {
     "url": "https://github.com/biberonsuz/colorshow.online/issues"
   },
