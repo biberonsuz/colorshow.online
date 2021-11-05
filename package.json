@@ -2,7 +2,7 @@
   "name": "colorshow.online",
   "version": "1.0.0",
   "engines": {
-    "node":"14.x"
+    "node": "14.x"
   },
   "description": "",
   "main": "app.js",
@@ -15,11 +15,11 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^7.0.0"
-  },
   "bugs": {
     "url": "https://github.com/biberonsuz/colorshow.online/issues"
   },
-  "homepage": "https://github.com/biberonsuz/colorshow.online#readme"
+  "homepage": "https://github.com/biberonsuz/colorshow.online#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
